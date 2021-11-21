@@ -1,11 +1,11 @@
-const messages = ["TIM", "ARIA","CONNOR", "JANE ", "MICELI "]
+const messages = ["NEVER", "GUNNA ", "GIVE", "YOU","UP", "LET     ", "DOWN      "]
 
 var yellowrain = 50;
 var greenrain = 104;
 var bluerain = 207;
 var purplerain = 255;
 
-var colorrain = bluerain;
+var colorrain = greenrain;
 
 
 var M = {
@@ -17,8 +17,8 @@ var M = {
                 max: 5
             },
             CODE_LENGTH_PARAMS: {
-                min: 4,
-                max: 10
+                min: 2,
+                max: 25
             }
         },
         animation: null,

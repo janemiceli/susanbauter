@@ -1,11 +1,13 @@
-const messages = ["NEVER", "GUNNA ", "GIVE", "YOU","UP", "LET     ", "DOWN      "]
+const messages = ["ARIA", "JANE ", "TIM", "ANGIE ","SUSAN  ", "CONNOR   "]
 
+var pinkrain =0;
+var orangerain = 25
 var yellowrain = 50;
 var greenrain = 104;
 var bluerain = 207;
 var purplerain = 255;
 
-var colorrain = greenrain;
+var colorrain = orangerain;
 
 
 var M = {

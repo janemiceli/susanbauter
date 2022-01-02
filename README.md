@@ -1,15 +1,13 @@
 Matrix code rain
 ================
 
+<p align="center">
+<img src="https://github.com/janemiceli/susanbauter/blob/gh-pages/media/susanbauter.gif">
+</p>
+
 **See live demo [here](https://janemiceli.github.io/susanbauter/)**
 
-*Matrix* font is from [here](http://www.dafont.com/matrix-code-nfi.font).
-
-TO DO
-- In customer messages, only one string per character length is allowed for some reason
-
-CONFIGURATION 
-- Change color of the rain in script.js, by assigning variable "colorrain" a number that corresonds with the color:
+- Change color of the rain in script.js, by assigning variable "colorrain" a number that corresponds with the color:
 ```
 bluerain = 207;
 var colorrain = bluerain;
@@ -23,7 +21,10 @@ Live examples:
  * [Purple](https://janemiceli.github.io/Happy_birthday_angie/)
  * [Green Matrix 4](https://janemiceli.github.io/matrix4)
  * [Rainbow Matrix](https://janemiceli.github.io/matrixrainbow)
- * [Rainbow Matrix 4](https://janemiceli.github.io/matrix4rainbow)
+
+=======
+
+>>>>>>> 35de826 (adding gif so people can see what the code looks like)
 - Change the messages/words that appear in the rain by using all CAPS and assign to array "messages"
 ```
 const messages = ["ALPHA", "BETA", "GAMMA"]
